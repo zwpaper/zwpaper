@@ -23,5 +23,5 @@
 
 #+html: <p align="center">
 #+html: <img align="center" height="170px" src="https://github-readme-stats.vercel.app/api?username=zwpaper&show_icons=true&theme=prussian" /><br>
-#+html: <img src="https://github-profile-trophy.vercel.app/?username=zwpaper&theme=onedark&row=1" alt="logo" height="160" align="center" />
+#+html: <img src="https://github-profile-trophy.vercel.app/?username=zwpaper&theme=onedark&row=1&margin=5" alt="logo" height="160" align="center" />
 #+html: </p>
