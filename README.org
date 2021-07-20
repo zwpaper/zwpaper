@@ -18,10 +18,11 @@
 **** 🌈 Interested in:
 
      #+html: <p align="left">
-     #+html:   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-plain.svg" alt="rust" width="40" height="40"/>
+     #+html:   <a href="https://www.rust-lang.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-plain.svg" alt="rust" width="40" height="40"/></a>
+     #+html:   <a href="https://deno.land/"><img src="https://deno.land/images/deno_paper.png" alt="deno" width="40" height="40"/></a>
      #+html: </p>
 
 #+html: <p align="center">
-#+html: <img align="center" height="170px" src="https://github-readme-stats.vercel.app/api?username=zwpaper&show_icons=true&theme=prussian" /><br>
-#+html: <img src="https://github-profile-trophy.vercel.app/?username=zwpaper&theme=onedark&row=1&margin=5" alt="logo" height="160" align="center" />
+#+html:   <a href="https://github.com/zwpaper"><img align="center" height="170px" src="https://github-readme-stats.vercel.app/api?username=zwpaper&show_icons=true&theme=prussian" /></a><br>
+#+html:   <a href="https://github.com/zwpaper"><img src="https://github-profile-trophy.vercel.app/?username=zwpaper&theme=onedark&row=1&margin=8" alt="logo" height="160" align="center" /></a>
 #+html: </p>
