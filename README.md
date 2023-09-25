@@ -9,11 +9,13 @@
 - 🅡 I'm a [LSD-rs](https://github.com/lsd-rs) Member
   - ʪ I'm a [LSD](https://github.com/lsd-rs/lsd) Maintainer
 
-## 🌈 Working with:
+
+
+## 🥰 Working with:
 
 <a href="https://www.gnu.org/software/emacs/"><img src="https://upload.wikimedia.org/wikipedia/commons/0/08/EmacsIcon.svg" alt="go" width="40" height="40"/></a>
 
-## 🌈 Working on:
+## 💼 Working on:
 
 <p align="left">
   <a href="https://go.dev/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" alt="go" width="40" height="40"/></a>
@@ -21,11 +23,18 @@
   <a href="https://www.docker.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="docker" width="40" height="40"/></a>
 </p>
 
-## 🌈 Interested in:
+## 🌼 Interested in:
 
 <p align="left">
   <a href="https://www.rust-lang.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-plain.svg" alt="rust" width="40" height="40"/></a>
   <a href="https://deno.land/"><img src="https://deno.land/logo.svg" alt="deno" width="40" height="40"/></a>
+</p>
+
+
+## 🌈 Let LSD bring more sunshine into your daily terminal life 🌻
+
+<p align="center">
+<img width="599" alt="image" src="https://github.com/zwpaper/zwpaper/assets/3764335/5b829370-8b52-4f9b-aa7b-13d54451dd8f">
 </p>
 
 <p align="center">
