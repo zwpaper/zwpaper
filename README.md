@@ -39,5 +39,4 @@
 
 <p align="center">
   <a href="https://github.com/zwpaper"><img align="center" height="170px" src="https://github-readme-stats.vercel.app/api?username=zwpaper&show_icons=true&theme=prussian" /></a><br>
-  <a href="https://github.com/zwpaper"><img src="https://github-profile-trophy.vercel.app/?username=zwpaper&theme=onedark&row=1&margin=8" alt="logo" height="140" align="center" /></a>
 </p>
