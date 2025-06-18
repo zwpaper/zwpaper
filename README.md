@@ -26,7 +26,7 @@
 ## 🌼 Interested in:
 
 <p align="left">
-  <a href="https://www.rust-lang.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-plain.svg" alt="rust" width="40" height="40"/></a>
+  <a href="https://www.rust-lang.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-original.svg" alt="rust" width="40" height="40"/></a>
   <a href="https://deno.land/"><img src="https://deno.land/logo.svg" alt="deno" width="40" height="40"/></a>
 </p>
 
