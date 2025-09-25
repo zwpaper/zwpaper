@@ -13,7 +13,8 @@
 
 ## 🥰 Working with:
 
-<a href="https://www.gnu.org/software/emacs/"><img src="https://upload.wikimedia.org/wikipedia/commons/0/08/EmacsIcon.svg" alt="go" width="40" height="40"/></a>
+<a href="https://code.visualstudio.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40"/></a>
+<a href="https://www.gnu.org/software/emacs/"><img src="https://upload.wikimedia.org/wikipedia/commons/0/08/EmacsIcon.svg" alt="emacs" width="40" height="40"/></a>
 
 ## 💼 Working on:
 
