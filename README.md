@@ -1,6 +1,6 @@
 # Hi there 👋
 
-- 🔭 I’m currently working on creating an autonomous coding assistant [Pochi](https://github.com/TabbyML/pochi) and [Tabby](https://github.com/TabbyML/tabby)
+- 🔭 testing line [Pochi](https://github.com/TabbyML/pochi) and [Tabby](https://github.com/TabbyML/tabby)
 - ☸️ I'm a [Kubernetes SIGs](https://github.com/kubernetes-sigs) Member
   - ⚓︎ I'm a [Scheduler Plugins](https://github.com/kubernetes-sigs/scheduler-plugins) Reviewer
 - 👑 I'm a [TensorChord](https://github.com/tensorchord) Member
